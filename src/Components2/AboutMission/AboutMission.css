@@ -1,0 +1,32 @@
+.main-mission{
+    position: relative;padding-top: 70px;padding-bottom: 30px !important;
+}
+
+.second-mission{
+    margin: 30px 120px 20px 120px;
+}
+
+.mission-left h3{
+
+    font-weight: 300;
+}
+.mission-right-h2{
+font-weight:300;
+}
+
+.mission-left-p{
+    width: 400px !important;color: #6c6c6c;
+    font-size: 14px;font-family: 'Lato';margin-right: 15px !important;
+}
+
+.mission-right-p{
+    font-size: 14px;font-family: 'Lato';color: #6c6c6c;  width: 400px !important;
+}
+
+.mission-right-img{
+    
+    position: absolute;top: 65px;right: 0px;
+}
+.mission-right-img img{
+    width: 500px !important;height: 400px;
+}

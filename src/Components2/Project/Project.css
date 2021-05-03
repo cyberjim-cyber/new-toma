@@ -1,0 +1,49 @@
+.main-project{
+   max-width: 1000px !important;margin: auto 100px auto 100px;padding-top: 70px;padding-bottom: 60px;
+}
+
+
+
+.project-h2{
+    text-align: center; display: block;text-transform: uppercase;margin-bottom: 40px;margin-top: 30px;
+    font-size: 40px;font-weight:300;font-family: 'lato';
+}
+.img-pro{
+    height:300px !important;width:100% !important;
+}
+
+.second-row{
+    margin-top: 15px;
+}
+
+
+.project-button{
+    background: linear-gradient(to right, rgb(35, 140, 226) 50%, white 50%);
+    width: 160px;height:35px;border:1px solid rgb(14, 16, 17);transition: all .7s ease-out;margin-left: 40% !important;margin-top: 20px;
+    background-size: 200% 100%;background-position: right bottom;
+}
+
+.project-button:hover{
+    background-position: left bottom;
+}
+
+.project-link:hover{
+    color: white; text-decoration: none;text-transform:uppercase;
+}
+.project-link{
+    font-size: 12px;font-family: 'Lato';margin-left: 20px;
+    text-decoration: none;text-transform:uppercase;color: black;
+}
+
+
+
+.over-img{
+    position: absolute;top: 100px;left:55px;color: white;
+
+}
+
+.project-link:hover{
+    background:blue !important;opacity: .4 !important;
+}
+
+

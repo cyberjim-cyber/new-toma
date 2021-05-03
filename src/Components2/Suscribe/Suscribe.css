@@ -1,0 +1,25 @@
+.main-suscribe{
+    background-size: cover;
+    background-image: url(../../images/footer_bg.jpg);height:200px;
+}
+
+.input{
+    width: 370px;float: left;margin-top: 70px;margin-left: 15px;
+}
+
+.sus-h2{
+    font-family: 'lato';font-weight: 900;
+    color: white;margin-top: 70px;float: left;font-size: 30px !important;
+}
+.suscribe-div{
+    margin:80px 70px 70px 150px !important;
+}
+
+.subscribe-button{
+    float: left;margin-top: 70px !important;
+}
+
+.but{
+    color: white;background: none;
+    width: 120px;height: 40px;border: 1px solid white;text-transform: uppercase;
+}

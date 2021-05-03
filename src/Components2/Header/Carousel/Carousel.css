@@ -1,0 +1,85 @@
+.carousel-caption{
+    color:black !important;
+}
+
+.red{
+    height: 7px;background-color: red;margin: 0px;
+}
+.blue{
+    height: 7px;background-color: rgb(8, 111, 247);margin: 0px !important;width: 400px;
+}
+.main-carousel{
+    max-height: 500px !important;
+}
+.trans{
+    width:90px;height: 130px;
+}
+.logo{
+position:absolute;top:20px;background:no-repeat;left: 28px;
+}
+.logo img{
+    width: 90px;height:auto;
+}
+
+.car{
+    background-color: rgba(56, 38, 38,.7) !important;background-size: cover;max-height: 540px !important;
+}
+
+.carousel-item{
+    background: rgba(29, 26, 26,.6);
+}
+.carousel-indicators button{
+
+    
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100% !important;
+}
+.carousel-caption{
+    position:absulate;top:30%;left:50%;transform:translate(-50%);
+    display:block;width:100%;color: whitesmoke !important;
+}
+
+.carousel-button{
+    background: linear-gradient(to right, rgb(26, 140, 175) 50%, white 50%);margin-left: 40%;
+    width: 120px;height:35px;border:1px solid rgb(16, 21, 26);transition: all .7s ease-out;float: left;
+    background-size: 200% 100%;background-position: right bottom;margin-top: 35px;
+}
+
+.carousel-button:hover{
+    background-position: left bottom;
+}
+
+.carousel-link:hover{
+    color: white; text-decoration: none;text-transform:uppercase;
+}
+.carousel-link{
+    text-decoration: none;text-transform:uppercase;color: black;font-size: 12px;
+    font-family: 'Lato';font-weight: 600;
+}
+
+
+
+/* 2nd button */
+.carousel-button2{
+    background: linear-gradient(to right, rgb(196, 188, 188) 50%, rgb(28, 2, 255) 50%);
+    width: 120px;height:35px;border:1px solid rgb(8, 9, 10);transition: all .7s ease-out;margin-left: 20px;
+    background-size: 200% 100%;background-position: right bottom;float: left;margin-top: 35px;
+}
+
+.carousel-button2:hover{
+    background-position: left bottom;
+}
+
+.carousel-link2:hover{
+    color: white; text-decoration: none;text-transform:uppercase;
+}
+.carousel-link2{
+    text-decoration: none;text-transform:uppercase;color: rgb(230, 223, 223);font-size: 12px;
+    font-family: 'Lato';font-weight: 600;
+}
+
+
+.carouse-p{
+    border-bottom: 2 px solid black;
+}

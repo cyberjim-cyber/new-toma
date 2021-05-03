@@ -1,0 +1,40 @@
+.lef{
+   width:130%;
+}
+
+.wel-right{
+    margin-top: 100px;margin-right: 50px;height:300px !important;
+}
+
+.main-welcome{
+    overflow: hidden;height: 400px;
+}
+
+.img-welcome{
+    position: absolute;top:120px;left:180px;color: white;width: 180px;border-top: 1px solid white;border-left: 1px solid white;
+}
+
+.wel-p{
+    font-size: 17px;font-family: 'lato sans-serif';    color: #8f8c8c;
+    line-height: 24px;
+    font-weight: 400;
+    margin: 0px 0px 15px;
+    text-align: justify;
+}
+
+.butto{
+    background: linear-gradient(to right, red 50%, white 50%);
+    width: 100px;height:40px;border:1px solid rgb(17, 106, 189);transition: all .7s ease-out;margin-left: 10px;
+    background-size: 200% 100%;background-position: right bottom;
+}
+
+.butto:hover{
+    background-position: left bottom;
+}
+
+.lin:hover{
+    color: white; text-decoration: none;text-transform:uppercase;
+}
+.lin{
+    text-decoration: none;text-transform:uppercase;
+}

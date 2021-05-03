@@ -1,0 +1,22 @@
+.footer{
+    color: white;   background-repeat: no-repeat;
+    background:url(../../images/fot.jpg),linear-gradient(rgba(24, 21, 21, 0.7),rgba(121, 99, 99,.6)) !important;background-size:cover;height:280px;overflow:hidden !important;
+}
+.footer-left{
+    width: 115% !important;height:280px;
+}
+
+.footer-ul{
+    list-style:none;
+}
+.footer-ul li a{
+    text-decoration: none;text-transform:uppercase;color:#8e8b8b;font-size: 14px;font-family: 'lato';
+}
+
+.footer-logo{
+position: absolute;top: 50px;left: 80px;
+}
+
+.footer-link{
+    margin-top: 70px;padding-left: 0px;margin-left: -20px;
+}
