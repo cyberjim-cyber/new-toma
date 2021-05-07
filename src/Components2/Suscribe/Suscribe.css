@@ -1,18 +1,22 @@
 .main-suscribe{
     background-size: cover;
-    background-image: url(../../images/footer_bg.jpg);height:200px;
+    background-image: url(../../images/footer_bg.jpg);height:220px;
 }
 
 .input{
+    background:none;
     width: 370px;float: left;margin-top: 70px;margin-left: 15px;
+}
+.input placeholder{
+    color: white;
 }
 
 .sus-h2{
     font-family: 'lato';font-weight: 900;
-    color: white;margin-top: 70px;float: left;font-size: 30px !important;
+    color: white;margin-top: 70px;float: left;font-size: 38px !important;
 }
 .suscribe-div{
-    margin:80px 70px 70px 150px !important;
+    margin:80px 70px 70px 200px !important;
 }
 
 .subscribe-button{

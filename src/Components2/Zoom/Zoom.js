@@ -17,36 +17,39 @@ const Zoom = () => {
                 <div className="col-md-3">
 
                
-        <div className="col hover">
+        <div className="col ">
             <img className="z-height" src={road} alt=""/>
             <h3 className="zoom-h3">Roads and Highway</h3>
           
         </div>
-        <div className="col hover">
+        <div className="col ">
         <img className="z-height" src={rail} alt=""/>
         <h3 className="zoom-h3">Railway and ancliliuris</h3>
         </div> </div>
         <div className="col-md-3 hover">
+          
+
+       
         <img className="z-not" src={fly} alt=""/>
         <h3 className="zoom-h3">Flyover and bridge</h3>
-
+     
         </div>
-        <div className="col-md-3">
-            <div className="col hover">
+        <div className="col-md-3 hover third">
+            <div className="col ">
             <img className="z-height"src={build} alt=""/>
             <h3 className="zoom-h3">Build and structure</h3>
             </div>
-            <div className="col hover">
+            <div className="col ">
                 <img className="z-height"src={marine} alt=""/>
                 <h3 className="zoom-h3">Jetty and merine docs</h3>
             </div>
            
         </div>
-        <div className="col-md-3">
-            <div  className="col hover back-blue">
+        <div className="col-md-3 hover">
+            <div  className="col  back-blue">
                 <h4 className="zoom-h3">Embankment and river guard</h4>
             </div>
-            <div style={{paddingLeft:"0px"}} className="col hover">
+            <div style={{paddingLeft:"0px"}} className="col ">
                 <img className="z-height last"src={grain} alt=""/>
                 <h3 className="zoom-h3">Food grain sild</h3>
             </div>

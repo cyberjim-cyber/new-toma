@@ -1,12 +1,10 @@
  .back-blue{
-    width: 240px !important;background-color: aqua !important;height:240px !important;padding-left: 0px;padding-right: 35px !important;position: relative;
+    width: 290px !important;background-color: aqua !important;height:240px !important;padding-left: 0px;position: relative;
 }
 
-.last{
-    width: 220px;
-}
+
 .zoom{
- width: 1000px;margin-left:110px;
+ width: 1240px;margin:0px 100px;
 }
 .back-blue .zoom-h3{
 position: absolute;top: 70px;left: 35px;
@@ -15,11 +13,19 @@ position: absolute;top: 70px;left: 35px;
     background-color: #f7f7f7 !important;padding-top: 50px;
 }
 .z-height{
-    height:240px;
+    height:240px;width:300px;margin:0px !important;padding:0px !important;
 }
 .z-not{
-    width: 290px;height: 480px !important;
+    width: 300px;height: 480px !important;margin:0px !important;padding:0px !important;
 }
+.col{
+    width: 290px !important;margin:0px !important;padding:0px !important;
+}
+.hover{
+width: 290px !important;margin:0px !important;padding:0px !important;flex: none;
+
+}
+
 
 /* .hover:hover{
 transform: scale(2,2) !important;overflow: hidden !important;

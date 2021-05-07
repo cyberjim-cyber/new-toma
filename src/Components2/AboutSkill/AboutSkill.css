@@ -1,14 +1,15 @@
 .second-skill{
-    margin: 0px 120px 10px 120px;font-family: 'Lato' 'san-serif';
+    max-width: 1440px;margin-left: 150px ;
+    font-family: 'Lato' 'san-serif';margin-top: 60px;
 }
 .main-skill{
-    position: relative;padding-bottom: 50px;
+    position: relative;
 }
 .top-skill{
-    width:500px;margin:auto;margin-bottom: 35px !important;
+    width:550px;margin-left: 25%;margin-bottom: 35px !important;
 }
 .top-skill h2{
-font-weight: 300;color:#00346d;text-align: center;margin-bottom: 25px;
+font-weight: 300;color:#00346d;text-align: center;margin-bottom: 26px;font-size:40px;
 }
 
 .top-skill h2::after{
@@ -16,31 +17,31 @@ font-weight: 300;color:#00346d;text-align: center;margin-bottom: 25px;
     content: " ";position: absolute;top: 40px;margin-top: 10px;
 }
 .top-skill p{
-color: #6c6c6c;font-weight: 400;text-align: center;font-size: 14px;
+color: #6c6c6c;font-weight: 400;text-align: center;font-size: 16px;
 }
-.row .col-md-4{
-    max-width:280px !important; padding-right: 15px !important;
+.skill-col{
+    max-width:370px !important; padding-right: 15px !important;
     margin: 10px 20px;
 }
 .skill-col h3{
     font-family: 'lato';font-weight: 700;
-margin-bottom: 20px;font-size: 16px !important;text-align: center;
+margin-bottom: 20px;font-size: 18px !important;text-align: center;
 }
 .skill-col p{
 
-    color: #6c6c6c;font-size: 14px;font-family: 'lato';
+    color: #6c6c6c;font-size: 16px;font-family: 'lato';
 }
 
 .right-img{
-    position: absolute;top: 270px;right:0px;
+    position: absolute;top: 358px;right:0px;
 }
 
 .right-img img{
-    height:320px;width:450px;
+    height:370px;width:495px;
 }
 
 .font-icon{
-    width: 60px !important;height:50px;color: rgb(47, 106, 173);
+    width: 100px !important;height:80px;color: rgb(47, 106, 173);
 }
 
 .font-div{

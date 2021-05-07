@@ -1,7 +1,7 @@
 
 .butto{
     background: linear-gradient(to right, rgb(21, 142, 223) 50%, white 50%);
-    width: 110px;height:30px;border:1px solid rgb(34, 37, 39);transition: all .7s ease-out;margin-left: 15px !important;
+    width: 120px !important;height:30px;border:1px solid rgb(34, 37, 39);transition: all .7s ease-out;margin-left: 15px !important;
     background-size: 200% 100%;background-position: right bottom;
     margin-top: 20px;
 }
@@ -15,7 +15,7 @@
 }
 .lin{
     text-decoration: none;text-transform:uppercase;color: black;
-    font-size: 12px;margin-left: 10px;font-family: 'Lato';font-weight: 700;z-index: none;
+    font-size: 14px;margin-left: 10px;font-family: 'Lato';font-weight: 700;z-index: none;
 }
 
 .second-toma-div{
@@ -24,23 +24,24 @@
 }
 
 .toma-h3{
-    font-family: 'lato';font-size: 22px;    border-bottom: 1px dotted #B7B7B7;margin-top: 10px;
+    font-family: 'lato';font-size: 28px;    border-bottom: 1px dotted #B7B7B7;margin-top: 10px;
 }
 
 .toma-img{
-    width:150px;
+    width:200px;
 }
 
 
 .main-toma{
    
-    background-color: #f7f7f7 !important; height:500px;padding-top: 60px;position: relative;padding-bottom: 97px;
+    background-color: #f7f7f7 !important; height:570px;padding-top: 60px;position: relative;
+    padding-bottom: 120px;position: relative;
 
 }
 
 .right-toma-div{
-     position: absolute;top: 190px;left:64%;
+     position: absolute;top: 154px;right: 0px;
 }
 .right-toma{
-    z-index: -1; width: 427px;
+    z-index: -1; width: 450px;height:410px;
 }

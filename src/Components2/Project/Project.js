@@ -15,8 +15,8 @@ const Project = () => {
     return (
         <div className="main-project">
             <h2 className="project-h2">Project Highlight</h2>
-            <div className="row">
-                <div data-aos-duration="900" data-aos="fade-up" className="col-md-4 project-hover ">
+            <div className="row main">
+                <div data-aos-duration="900" data-aos="fade-up" className="col-md-4 project-hover project-div ">
                <a className="project-link" href="#"> <img  className="img-pro" src={road} alt=""/>
                <div className="over-img">
                <h2 >Flyover Project</h2>
@@ -24,25 +24,26 @@ const Project = () => {
               </a>
                
                 </div>
-                <div data-aos-duration="900" data-aos="fade-up" className="col-md-4  ">
+                <div data-aos-duration="900" data-aos="fade-up" className="col-md-4  project-div  ">
+               
                   <a href="#">  <img  className="img-pro" src={fly} alt=""/>    <h2 className="over-img">Food Project</h2></a>
-              
+                
                 </div>
-                <div data-aos-duration="900" data-aos="fade-up" className="col-md-4 ">
+                <div data-aos-duration="900" data-aos="fade-up" className="col-md-4  project-div">
                   <a href="#">  <img  className="img-pro" src={grain} alt=""/>    <h2 className="over-img">Railway Project</h2></a>
               
                 </div></div>
-                <div className="row second-row">
-                <div data-aos-duration="900" data-aos="fade-up" className="col-md-4 ">
+                <div className="row main second-row">
+                <div data-aos-duration="900" data-aos="fade-up" className="col-md-4 project-div ">
               <a href="#">  <img  className="img-pro" src={rail} alt=""/>    <h2 className="over-img">Highway Project</h2></a>
           
                 </div>
-                <div data-aos-duration="900" data-aos="fade-up" className="col-md-4 ">
+                <div data-aos-duration="900" data-aos="fade-up" className="col-md-4  project-div">
                    <a href="#"> <img className="img-pro"src={marine} alt=""/>  <h2 className="over-img">Building Project</h2>
                    </a>
                  
                 </div>
-                <div data-aos-duration="900" data-aos="fade-up" className="col-md-4">
+                <div data-aos-duration="900" data-aos="fade-up" className="col-md-4 project-div">
                    <a href="#"> <img className="img-pro"src={build} alt=""/>
                    <h2 className="over-img">Bridge Project</h2></a>
                    

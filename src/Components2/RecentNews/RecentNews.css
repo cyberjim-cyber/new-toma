@@ -1,6 +1,6 @@
 .main-recentNews{
     padding-top: 80px;
-    max-width: 1000px !important;margin: auto 100px auto 100px;
+    max-width: 1240px !important;margin: auto ;
 }
 
 .recent-butt{margin-left: 40%;text-align: center;
@@ -29,10 +29,11 @@
 
 .zoom-div{
   overflow: hidden !important;position: relative !important;
-  max-width: 296px !important;
+ width: 350px !important; margin-right: 30px !important;
 }
 .zoom-div a img{
-    transition: all 0.6s;  transform: scale(1);
+    transition: all 0.6s;  transform: scale(1);width: 340px;
+    
 }
 
 .zoom-div a{
