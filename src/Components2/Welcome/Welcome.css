@@ -11,7 +11,17 @@
 }
 
 .img-welcome{
-    position: absolute;top:120px;left:180px;color: white;width: 180px;border-top: 1px solid white;border-left: 1px solid white;
+    position: absolute;top:120px;left:180px;color: white;width: 180px;
+}
+
+.img-welcome::after{
+    content: '';
+    position: absolute;
+    top: -25px;
+    left: -25px;
+    right: -15px;
+    bottom: -15px;
+    border-top: 1px solid white;border-left: 1px solid white;
 }
 
 .wel-p{
@@ -30,10 +40,14 @@
 
 .butto:hover{
     background-position: left bottom;
+    
+}
+.butto:hover .lin{
+    color: white;
 }
 
 .lin:hover{
-    color: white; text-decoration: none;text-transform:uppercase;
+     text-decoration: none;text-transform:uppercase;
 }
 .lin{
     text-decoration: none;text-transform:uppercase;

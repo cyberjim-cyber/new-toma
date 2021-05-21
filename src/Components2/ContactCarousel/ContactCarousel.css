@@ -1,0 +1,25 @@
+.main-about{
+    position:relative;max-height: 350px;
+}
+.about-banner{
+    background-image: url(../../images/Contact/inner-contact2.jpg);background-size: cover;
+    background-repeat: no-repeat;height:350px;width:100%;
+}
+
+.logo{
+position: absolute;top: 20px;left:28px;background:no-repeat;
+}
+
+.about-img{
+    width: 90px;height:auto;
+}
+
+.over-text{
+    position: absolute;transform:translate(-50%);top: 40%;left: 50%;color:white;font-family: 'Lato';
+}
+.over-text h2{
+    text-align: center;font-size: 28px;
+}
+.over-text p{
+    font-size:12px;
+}

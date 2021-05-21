@@ -1,0 +1,16 @@
+.main-touch{
+    position: relative;height:500px;
+}
+
+.touch-text{
+   width:700px;margin:120px auto auto -70px;
+}
+
+.touch-text h2,p{
+    text-align: center;
+}
+.right-touch{
+    position:absolute; top: 140px;right: 0px;
+    background-image: url(../../images/Contact/contact_shape2.png);
+    width:432px;height:427px;
+}

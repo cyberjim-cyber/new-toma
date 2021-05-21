@@ -34,8 +34,8 @@ const Project = () => {
               
                 </div></div>
                 <div className="row main second-row">
-                <div data-aos-duration="900" data-aos="fade-up" className="col-md-4 project-div ">
-              <a href="#">  <img  className="img-pro" src={rail} alt=""/>    <h2 className="over-img">Highway Project</h2></a>
+                <div data-aos-duration="900" data-aos="fade-up" className="col-md-4 project-div  ">
+              <a href="#">  <img  className="img-pro high-img" src={rail} alt=""/>    <h2 className="over-img">Highway Project</h2></a>
           
                 </div>
                 <div data-aos-duration="900" data-aos="fade-up" className="col-md-4  project-div">
